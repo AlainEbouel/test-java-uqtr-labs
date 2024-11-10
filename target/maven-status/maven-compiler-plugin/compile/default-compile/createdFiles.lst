@@ -1,4 +1,4 @@
-org\example\demo2\HelloApplication.class
-org\example\demo2\Main.class
 module-info.class
-org\example\demo2\HelloController.class
+com\example\demo3\HelloController.class
+com\example\demo3\HelloApplication.class
+com\example\demo3\Main.class
